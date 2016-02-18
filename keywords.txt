@@ -1,0 +1,6 @@
+LED KEYWORD1
+setup KEYWORD2
+on KEYWORD2
+off KEYWORD2
+blink KEYWORD2
+blink_n_times KEYWORD2
